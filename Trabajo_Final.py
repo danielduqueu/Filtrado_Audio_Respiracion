@@ -49,7 +49,8 @@ def Ciclos_resp(FileAudio, FileAno, sr):
 
 def Datos_Estadisticos(ciclo):
     '''
-    
+    Se ingresa la variable que contiene un ciclo cardiaco y se retornan
+    los valores de los datos estadísticos del ciclo.
     '''
     Varianza = np.var(ciclo)
     Rango = np.abs(np.max(ciclo) - np.min(ciclo))
