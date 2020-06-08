@@ -6,7 +6,8 @@
 <b>1.</b> En primer lugar se deben descargar todos los archivos que están publicados</p>
 <b>2.</b> La base de datos puede ser encontrda en https://www.kaggle.com/vbookshelf/respiratory-sound-database.</p>
 <b>3.</b> El archivo Filtrado_Wavelet es un arvhivo que contiene las líneas de código que hacen posible el filtrado Wavelet </p>
-<b>4.</b> El archivo linearFIR es un arvhivo que contiene la librería que hace posible el filtrado lineal.</p>
+<b>4.</b> El archivo linearFIR es un archivo que contiene la librería que hace posible el filtrado lineal.</p>
+<b>5.</b> Cambiar el directorio de los archivos de audio en el código de "Trabajo_Final.py".</p>
 
 <H3>Pre-requisitos 📋 </H3></p>
 <P ALIGN="justify">El único requerimiento además de tener correctamente instalado Python, son los dos archivos que contienen las librerías de filtrado, es importante tener todos los archivos en una misma carpeta. Además es necesario descargar e instalar la librería Librosa de Pyton </p>
